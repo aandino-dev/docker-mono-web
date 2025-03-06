@@ -6,7 +6,6 @@ services:
     build: ../
     restart: always
     ports:
-      - "80:80"
+      - "8080:80"
     volumes:
       - ./pools:/etc/mono/pools
-      - ./dist:/var/www/sample-app

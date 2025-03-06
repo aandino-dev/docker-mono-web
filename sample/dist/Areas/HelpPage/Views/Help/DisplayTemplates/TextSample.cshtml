@@ -1,1 +1,0 @@
-Este é um arquivo marcador gerado pela ferramenta de pré-compilação, e não deve ser excluído!
